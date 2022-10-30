@@ -15,3 +15,21 @@ body{
 .nav-link-custom{
     font-size: 18px;
 }
+.main-area{
+    margin: 0px 140px;
+}
+.slider{
+    margin-top: 48px;
+}
+.slider img{
+    filter: brightness(70%);
+}
+.slider h1{
+    font-size: 65px;
+    font-weight: 600;
+    width: 632px;
+}
+.slider p{
+    font-size: 18px;
+    width: 632px;
+}

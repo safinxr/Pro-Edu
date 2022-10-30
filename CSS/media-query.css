@@ -5,6 +5,17 @@
         padding: 0px 100px;
         margin-top: 45px;
     }
+    .main-area{
+        margin: 0px 100px;
+    }
+    .slider h1{
+        font-size: 45px;
+        width: 602px;
+    }
+    .slider p{
+        font-size: 16px;
+        width: 602px;
+    }
 }
 
 /* md */
@@ -13,6 +24,17 @@
         padding: 0px 50px;
         margin-top: 40px;
     }
+    .main-area{
+        margin: 0px 50px;
+    }
+    .slider h1{
+        font-size: 40px;
+        width: 550px;
+    }
+    .slider p{
+        font-size: 16px;
+        width: 550px;
+    }
 }
 /* sm */
 @media only screen and (min-width:576px) and (max-width: 768px){
@@ -20,11 +42,33 @@
         padding: 0px 30px;
         margin-top: 30px;
     }
+    .main-area{
+        margin: 0px 30px;
+    }
+    .slider h1{
+        font-size: 30px;
+        width: 400px;
+    }
+    .slider p{
+        font-size: 14px;
+        width: 400px;
+    }
 }
 /* xsm */
 @media only screen and (max-width:576px){
     .top-nav{
         padding: 0px 20px;
         margin-top: 20px;
+    }
+    .main-area{
+        margin: 0px 20px;
+    }
+    .slider h1{
+        font-size: 20px;
+        width: 300px;
+    }
+    .slider p{
+        font-size: 10px;
+        width: 300px;
     }
 }
