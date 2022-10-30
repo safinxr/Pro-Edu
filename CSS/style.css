@@ -33,3 +33,18 @@ body{
     font-size: 18px;
     width: 632px;
 }
+.course-section{
+    margin-top: 130px;
+}
+.course-section h1{
+    font-size: 45px;
+    font-weight: 600;
+}
+.course-header{
+    width: 50%;
+}
+
+.cards img{
+    width: 30%;
+}
+
