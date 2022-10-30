@@ -1,0 +1,30 @@
+
+/* lg */
+@media only screen and (min-width:992px) and (max-width: 1200px){
+    .top-nav{
+        padding: 0px 100px;
+        margin-top: 45px;
+    }
+}
+
+/* md */
+@media only screen and (min-width:768px) and (max-width: 992px){
+    .top-nav{
+        padding: 0px 50px;
+        margin-top: 40px;
+    }
+}
+/* sm */
+@media only screen and (min-width:576px) and (max-width: 768px){
+    .top-nav{
+        padding: 0px 30px;
+        margin-top: 30px;
+    }
+}
+/* xsm */
+@media only screen and (max-width:576px){
+    .top-nav{
+        padding: 0px 20px;
+        margin-top: 20px;
+    }
+}
