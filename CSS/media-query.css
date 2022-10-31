@@ -23,6 +23,9 @@
         font-size: 25px;
         font-weight: 600;
     }
+    .all-header-text{
+        font-size: 40px;
+    }
 }
 
 /* md */
@@ -52,6 +55,9 @@
     .Elearning-box h1{
         font-size: 25px;
     }
+    .all-header-text{
+        font-size: 40px;
+    }
 }
 /* sm */
 @media only screen and (min-width:576px) and (max-width: 768px){
@@ -79,6 +85,9 @@
     }
     .Elearning-box h1{
         font-size: 25px;
+    }
+    .all-header-text{
+        font-size: 40px;
     }
 }
 /* xsm */
@@ -111,5 +120,19 @@
     }
     .Elearning-box h1{
         font-size: 25px;
+    }
+    .Elearning-box {
+        background-color: #F4FAFD;
+        height: auto;
+    
+    }
+    .Elearning-box img {
+        border-top-left-radius: 7px;
+        border-top-right-radius: 7px;
+        width: 100%;
+        height: 100%;
+    }
+    .all-header-text{
+        font-size: 30px;
     }
 }
