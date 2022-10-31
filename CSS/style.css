@@ -4,6 +4,29 @@ body{
     max-width: 1440px;
     font-family: 'Poppins', sans-serif;
 }
+p{
+    color: #777777;
+}
+.outline-button{
+    border: 1px solid #289BDE;
+    color: #289BDE;
+}
+.outline-button:hover{
+    border: 1px solid #289BDE;
+    background-color:#289BDE ;
+    color:white;
+}
+.main-button{
+    background-color:#289BDE ;
+    color: white;
+}
+.main-button:hover{
+    background-color:#268bc5 ;
+    color: white;
+}
+.main-color{
+    color: #289BDE;
+}
 .top-nav{
     padding: 5px 140px;
     margin-top: 50px;
@@ -43,8 +66,31 @@ body{
 .course-header{
     width: 50%;
 }
-
-.cards img{
-    width: 30%;
+.cards{
+    transition: transform 0.3s,ox-shadow 0.3s ;
 }
+.cards:hover{
+    transform: scale(1.01);
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+.cards img{
+    width: 35%;   
+}
+.Elearning-box{
+    background-color: #F4FAFD;
+    height: 480px;
+    
+}
+.Elearning-box img{
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 7px;
+    width: 100%;
+    height: 480px;
+}
+.Elearning-box h1{
+    font-size: 45px;
+    font-weight: 600;
+}
+
 

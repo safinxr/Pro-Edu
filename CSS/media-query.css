@@ -19,6 +19,10 @@
     .course-header{
         width: 60%;
     }
+    .Elearning-box h1{
+        font-size: 25px;
+        font-weight: 600;
+    }
 }
 
 /* md */
@@ -45,6 +49,9 @@
         font-size: 35px;
         font-weight: 600;
     }
+    .Elearning-box h1{
+        font-size: 25px;
+    }
 }
 /* sm */
 @media only screen and (min-width:576px) and (max-width: 768px){
@@ -70,6 +77,9 @@
         font-size: 30px;
         font-weight: 600;
     }
+    .Elearning-box h1{
+        font-size: 25px;
+    }
 }
 /* xsm */
 @media only screen and (max-width:576px){
@@ -94,5 +104,12 @@
     .course-section h1{
         font-size: 25px;
         font-weight: 600;
+    }
+    .cards img{
+        width: 100%;
+        
+    }
+    .Elearning-box h1{
+        font-size: 25px;
     }
 }
