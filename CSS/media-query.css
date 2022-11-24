@@ -135,4 +135,8 @@
     .all-header-text{
         font-size: 30px;
     }
+    .header-div{
+        width: auto;
+        margin: 0px;
+    }
 }
