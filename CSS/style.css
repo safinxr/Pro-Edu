@@ -128,3 +128,18 @@ p {
     width: 556px;
     margin: 0px;
 }
+.header-div2{
+    width: 600px;
+    margin: 0px;
+}
+.media-icon{
+    background-color: #242424;
+}
+.fb-icon{
+ padding: 8px 11px;
+
+}
+.footer-div{
+    width: 321px;
+    margin: 0 auto;
+}
